@@ -14,6 +14,13 @@ a windows notification of the event.
 3. Run `python 'Hannah Notifier.py'`
 4. You have installed Hannah notifier
 
+# Shoutout
+Original site and api maker: `https://brookeafk.com`
+
+# Media
+If you want to make a video on this please link my youtube `https://www.youtube.com/channel/UCag7cztDCgGUYX0Vu6tuu6A`
+and my github `https://github.com/HannahHav3n` <3
+
 # Todo
 1. Add lookup player stats
 2. Add upcoming events
