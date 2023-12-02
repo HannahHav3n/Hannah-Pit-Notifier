@@ -14,6 +14,10 @@ a windows notification of the event.
 3. Run `python 'Hannah Notifier.py'`
 4. You have installed Hannah notifier
 
+### OR
+
+Run the exe
+
 # Shoutout
 Original site and api maker: `https://brookeafk.com`
 
