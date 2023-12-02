@@ -8,7 +8,7 @@ is equal to any of the times in the event times and if it is then it will append
 not trigger again because it will be in the list for 60 seconds (because time), it also prints a notification and spawns
 a windows notification of the event.
 
-# Instillation
+# Installation
 1. Download the repository
 2. Run the following command in a shell in the folder you dowloaded `pip install -r requirements.txt`
 3. Run `python 'Hannah Notifier.py'`
